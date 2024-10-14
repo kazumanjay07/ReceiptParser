@@ -20,7 +20,7 @@ This project is a Streamlit web application that uses the Donut model (an instan
 1. Clone the repository:
     ```bash
     [git clone https://github.com/your-username/receipt-parsing-app.git](https://github.com/kazumanjay07/ReceiptParser.git)
-    cd receipt-parsing-app
+    cd Receeipt Parser
     ```
 
 2. Create a virtual environment (recommended):
